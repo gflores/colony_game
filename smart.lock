@@ -1,0 +1,39 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "kinetic.js": {},
+      "collection-helpers": {},
+      "define": {},
+      "npm": {},
+      "accounts-guest": {}
+    },
+    "packages": {
+      "kinetic.js": {
+        "git": "https://github.com/brentjanderson/meteor-kinetic.git",
+        "tag": "v5.0.1",
+        "commit": "3c29f5bcbcdc9687081b336e59e8387dc02236a5"
+      },
+      "collection-helpers": {
+        "git": "https://github.com/dburles/meteor-collection-helpers.git",
+        "tag": "v0.2.3",
+        "commit": "52c4c692421acea557fb329f43f65ed11b4832df"
+      },
+      "define": {
+        "git": "https://github.com/apendua/require.git",
+        "tag": "v0.9.0.2",
+        "commit": "5c3bdfdf7c747dc7297e7697d5f1a28ef86772f2"
+      },
+      "npm": {
+        "git": "https://github.com/arunoda/meteor-npm.git",
+        "tag": "v0.2.6",
+        "commit": "177ab6118de5bf8cffb19481343d5762ff7a2aaf"
+      },
+      "accounts-guest": {
+        "git": "https://github.com/artwells/meteor-accounts-guest.git",
+        "tag": "v0.0.6",
+        "commit": "f40bcf1f9e5999c70ab81a4f1e7a39f3ce78aa57"
+      }
+    }
+  }
+}
